@@ -1,0 +1,7 @@
+{
+  "name": "8BALL",
+  "description": "8BALL cardano staking pool",
+  "ticker": "8BALL",
+  "homepage": "https://metablx.com",
+  "extended": "https://raw.githubusercontent.com/deshawes/8ball/master/extended-metadata.json"
+}
