@@ -1,1 +1,1 @@
-{"itn": {"owner": "ed25519_pk1lxjpsmm6ew9q567jpjr0d74rajk7ax9tw6n9xw59dpx0c4653caqjfvej4", "witness": "ed25519_sig1hcghxp29puakxkehdywc4udlr76fs2v89xwl7yf0h6707akhhu77ejtvnt2eejdcdfzr795wmvslvc879ne7gjlpdsh2yy60wty0vzcfjmzle"}}
+{"itn": {"owner": "ed25519_pk1lxjpsmm6ew9q567jpjr0d74rajk7ax9tw6n9xw59dpx0c4653caqjfvej4", "witness": "ed25519_sig1r8m3rzrumsw585smd9cw550rxfg77t02xpxe8r2ahawzezqhvdapy9lcmz384jxa0ehtywaxss5hszf5qdxwaccrk946e72x976pypgjvd673"}}
