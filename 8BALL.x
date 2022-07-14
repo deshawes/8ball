@@ -1,1 +1,1 @@
-{"itn": {"owner": "ed25519_pk1lxjpsmm6ew9q567jpjr0d74rajk7ax9tw6n9xw59dpx0c4653caqjfvej4", "witness": "ed25519_sig1r8m3rzrumsw585smd9cw550rxfg77t02xpxe8r2ahawzezqhvdapy9lcmz384jxa0ehtywaxss5hszf5qdxwaccrk946e72x976pypgjvd673"}}
+{"info": {"url_png_icon_64x64": "https://bit.ly/3O64l0w", "url_png_logo": "https://bit.ly/3v9HHOv"}, "itn": {"owner": "ed25519_pk1lxjpsmm6ew9q567jpjr0d74rajk7ax9tw6n9xw59dpx0c4653caqjfvej4", "witness": "ed25519_sig1r8m3rzrumsw585smd9cw550rxfg77t02xpxe8r2ahawzezqhvdapy9lcmz384jxa0ehtywaxss5hszf5qdxwaccrk946e72x976pypgjvd673"}}
